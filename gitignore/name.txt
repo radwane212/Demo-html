@@ -1,0 +1,7 @@
+cerate website html Responsive  landing page for a start up Responsive Dropdown Navigation Navigation Bar
+using logo name <CreativeCoded> and add logo whit name personal portfolio page Dropdown-menu Website .
+and Introduction/About Me: Start with an introduction or an "About Me" section. Share a brief overview of yourself, 
+your background, 
+skills, and what makes you unique as a front-end developer.
+ Include a professional photo of yourself to add a personal touch.
+Introduction/About Me: Start with an introduction or an "About Me" section. 
